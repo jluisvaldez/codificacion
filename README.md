@@ -1,1 +1,1 @@
-Ejercicios para entender el uso de git y girflow
+Ejercicios para entender el uso de git y gitflow
